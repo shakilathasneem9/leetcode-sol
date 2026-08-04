@@ -17,15 +17,18 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
