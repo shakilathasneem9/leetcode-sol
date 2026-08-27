@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
