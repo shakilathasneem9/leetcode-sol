@@ -13,6 +13,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
