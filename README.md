@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
