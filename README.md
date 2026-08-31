@@ -15,11 +15,13 @@
 | [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +65,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +89,5 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
