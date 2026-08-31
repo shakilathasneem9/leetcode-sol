@@ -34,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 | [0217-contains-duplicate](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0350-intersection-of-two-arrays-ii) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shakilathasneem9/leetcode-sol/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
